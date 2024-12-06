@@ -4,14 +4,17 @@
 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Católica de Brasília. Tenho experiência e certificação em **teste de software** (CTFL pelo ISTQB) e habilidades em automação de testes com **Cypress** e **Postman**. Atualmente, estou me dedicando a aprender mais sobre **Git**, **GitHub** , **Selenium** e aprofundando conhecimentos em **JavaScript**.
 
 💼 **O que eu faço:**  
-- Analista de testes com foco em automação e APIs REST.  
-- Curioso por novas tecnologias e ferramentas para otimização de processos.  
-- Experiência em práticas ágeis como **Scrum** e **Kanban**.
+- Realizo **testes manuais** para garantir a qualidade de software.  
+- Crio e executo **cenários de teste** com base em requisitos funcionais.  
+- **Reporte de bugs** detalhados e acompanhamento de correções junto ao time de desenvolvimento.  
+- *Analise de documentação*
+- Automação de testes com foco em APIs REST usando ferramentas como **Postman** e **Cypress**.  
+- Experiência em práticas ágeis como **Scrum** e **Kanban**.  
 
 📚 **Habilidades:**  
 - Linguagens:  **JavaScript**, SQL.  
 - Banco de dados: **MySQL**.  
-- Movimentos ágeis e cultura de colaboração.
+- Metodologias ágeis: **Scrum**, **Kanban**.  
 
 ## Ferramentas e Tecnologias 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"  width="40" height="40" />
@@ -29,7 +32,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Cat�
           
 
 🎯 **Objetivos:**  
-Busco contribuir para projetos inovadores enquanto continuo aprimorando minhas habilidades e aprendendo novas tecnologias.
+Atualmente, estou em transição de carreira, aplicando todos os conceitos aprendidos em desenvolvimento e automação de testes para a área de **qualidade de software** e **testes**. Meu objetivo é consolidar minha atuação como **analista de QA/Testes**, contribuindo para a entrega de soluções robustas e de alta qualidade.  
 
 🌱 **O que estou aprendendo agora:**  
 - Melhorando meu domínio em **Git** e **GitHub**.  
@@ -38,7 +41,7 @@ Busco contribuir para projetos inovadores enquanto continuo aprimorando minhas h
 
 🔗 **Vamos conectar?**  
 <div>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jobson-gon%C3%A7alves-747b86251/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="/https://www.linkedin.com/in/jobson-gon%C3%A7alves-747b86251/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:contato@fonsecajobson@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 ---
