@@ -7,7 +7,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Cat�
 - Realizo **testes manuais** para garantir a qualidade de software.  
 - Crio e executo **cenários de teste** com base em requisitos funcionais.  
 - **Reporte de bugs** detalhados e acompanhamento de correções junto ao time de desenvolvimento.  
-- *Analise de documentação*
+- Faço **análise de documentação para histórias de usuários**, garantindo que os requisitos estejam claros e completos.  
 - Automação de testes com foco em APIs REST usando ferramentas como **Postman** e **Cypress**.  
 - Experiência em práticas ágeis como **Scrum** e **Kanban**.  
 
@@ -42,7 +42,7 @@ Atualmente, estou em transição de carreira, aplicando todos os conceitos apren
 🔗 **Vamos conectar?**  
 <div>
 
-<a href = "mailto:fonsecajobson"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:fonsecajobson@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jobson-gonçalves-747b86251/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 ---
