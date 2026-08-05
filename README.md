@@ -108,7 +108,7 @@ de fácil manutenção, contribuindo para entregas rápidas e confiáveis.
 
 # 📈 GitHub Stats
 
-> Substitua **SEU_USUARIO** pelo seu usuário do GitHub.
+>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joBsonFonseca&show_icons=true&theme=github_dark)
 
 ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
