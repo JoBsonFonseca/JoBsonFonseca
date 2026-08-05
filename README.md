@@ -104,7 +104,6 @@ de fácil manutenção, contribuindo para entregas rápidas e confiáveis.
 -   GitHub Actions
 -   CI/CD
 -   JavaScript
--   Qualidade de Software
 
 # 📫 Contato
 
