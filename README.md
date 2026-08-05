@@ -1,5 +1,3 @@
-
-[README_QA_Profile.md](https://github.com/user-attachments/files/30724514/README_QA_Profile.md)
 # 👋 Olá, eu sou o Jobson Gonçalves Fonseca
 
 ### Quality Assurance Engineer \| Test Automation \| API Testing \| CI/CD \| ISTQB CTFL
