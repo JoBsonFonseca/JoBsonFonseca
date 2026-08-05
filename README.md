@@ -118,5 +118,5 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_US
 
 # 📫 Contato
 
--   💼 LinkedIn: https://linkedin.com/in/SEU-LINK
--   📧 Email: seuemail@email.com
+-   💼 LinkedIn:https://www.linkedin.com/in/jobson-gon%C3%A7alves-747b86251/
+-   📧 Email: fonsecajobson@gmail.com
