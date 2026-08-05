@@ -106,15 +106,6 @@ de fácil manutenção, contribuindo para entregas rápidas e confiáveis.
 -   JavaScript
 -   Qualidade de Software
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoBsonFonseca&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoBsonFonseca&layout=compact&theme=github_dark&hide_border=true)
-
-![Top
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoBsonFonseca&layout=compact&theme=github_dark&hide_border=true)
-
 # 📫 Contato
 
 -   💼 LinkedIn:https://www.linkedin.com/in/jobson-gon%C3%A7alves-747b86251/
