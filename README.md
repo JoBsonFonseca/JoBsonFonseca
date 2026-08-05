@@ -110,8 +110,7 @@ de fácil manutenção, contribuindo para entregas rápidas e confiáveis.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoBsonFonseca&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoBsonFonseca&layout=compact&theme=github_dark&hide_border=true)
 
 ![Top
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoBsonFonseca&layout=compact&theme=github_dark&hide_border=true)
